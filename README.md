@@ -1,6 +1,6 @@
 # CommonsenseQA – Transformers & LLM Approaches (Individual Project 2)
 
-An individual NLP project evaluating commonsense reasoning on the **CommonsenseQA** benchmark using fine-tuned **BERT (Random vs. Pretrained)** and **Google Flan-T5-XL (Zero-Shot vs. Few-Shot)**[cite: 3].
+An individual NLP project evaluating commonsense reasoning on the **CommonsenseQA** benchmark using fine-tuned **BERT (Random vs. Pretrained)** and **Google Flan-T5-XL (Zero-Shot vs. Few-Shot)**.
 
 ---
 
