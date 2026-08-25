@@ -66,6 +66,6 @@ Grid search over **12 runs per model** using CrossEntropyLoss, AdamW, and Batch 
 
 1. Clone the repo & install requirements:
    ```bash
-   git clone TODO
+   git clone [https://github.com/FloraGashi/commonsense-qa-transformers.git](https://github.com/FloraGashi/commonsense-qa-transformers.git
    cd commonsense-qa-transformers
    pip install -r requirements.txt
